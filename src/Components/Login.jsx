@@ -16,7 +16,7 @@ export default function Login({ onEnter }) {
     <main className="login">
       <section className="login-hero">
         <p className="hero-tag">Démo en lecture seule</p>
-        <h1>Annuaire des utilisateurs</h1>
+        <h1>Gestion des événements</h1>
         <p>Parcourez les comptes de la base de données sans rien modifier. Aucun identifiant à saisir.</p>
       </section>
 
